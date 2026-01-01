@@ -1,6 +1,6 @@
 ;;; uchronia.el --- Uchronia mode -*- lexical-binding: t -*-
 
-;; Copyright (C) 2020-2025 Daniel Mendler
+;; Copyright (C) 2020-2026 Daniel Mendler
 
 ;; Author: Daniel Mendler
 ;; Maintainer: Daniel Mendler
